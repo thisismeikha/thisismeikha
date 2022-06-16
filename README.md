@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**thisismeikha/thisismeikha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thisismeikha/thisismeikha** is a ✨ currently learning DATA SCIENCE ✨ 
 
 - 🔭 I’m currently working as a monitoring and evaluation professional
 - 🌱 I’m currently learning data science
